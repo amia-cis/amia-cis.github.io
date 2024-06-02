@@ -1,5 +1,5 @@
 ## amia-cis.github.io
-Static website distribution build of the ACAP 1.0 Bicol frontend website from March 2022 - October 2023.
+Static website distribution build of the ACAP 1.0 Bicol frontend website from March 2022 - June 2024.
 
 > Last active ACAP v1.0 Release: v9.6.0
 
