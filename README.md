@@ -6,4 +6,4 @@ Static website distribution build of the ACAP 1.0 Bicol frontend website from Ma
 Head over to [https://acap-bicol.github.io](https://acap-bicol.github.io) to view the latest ACAP Bicol website and updates.
 
 @weaponcrafts<br>
-20240602
+20240706
