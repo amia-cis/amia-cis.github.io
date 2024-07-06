@@ -22,6 +22,7 @@
       margin: 0; padding: 0;
       font-family: Arial, Helvetica, sans-serif;
       background-color: var(--secondary-light);
+      color: rgba(0, 0, 0, 0.7);
     }
 
     .container {
@@ -36,13 +37,14 @@
     }
 
     .card {
-      padding: 32px;
+      padding: 48px;
       border-radius: 16px;
       min-height: 300px;
       background-color: #fff;
-      text-align: cENTER;
+      text-align: center;
       box-shadow: 0 10px 40px rgb(0 0 0 / 14%);
       border: 3px solid var(--color-border);
+
     }
 
     .card h5 {
@@ -58,6 +60,10 @@
     .card a:hover {
       color: var(--color-border);
       text-decoration: underline;
+    }
+
+    .card p {
+      font-family: Georgia, 'Times New Roman', Times, serif;
     }
   </style>
 </head>
@@ -83,8 +89,10 @@
     function redirect () {
       setTimeout(() => {
         window.location.href = 'https://acap-bicol.github.io/'
-      }, 2000)
+      }, 3000)
     }
+
+    redirect()
   </script>
 </body>
 </html>
